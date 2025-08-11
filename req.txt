@@ -1,0 +1,9 @@
+streamlit
+groq
+tiktoken
+pypdf
+langchain
+langchain-community
+chromadb
+sentence-transformers
+torch            
